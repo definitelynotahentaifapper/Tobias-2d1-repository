@@ -1,0 +1,48 @@
+
+Afleveringsopgave 01
+--------------------
+- link til mit Github repository: https://github.com/definitelynotahentaifapper/Tobias-2d1-repository
+
+- mit GitHub navn er: jrtecdk
+
+1) Pde: Upload dit udvidede 'Hello World' program til dit GitHub repository.
+	- Vises æøå ÆØÅ korrekt når du kører dit program ?
+          Ja det gør det
+
+2) Pde: Hvad er svaret på følgende kommando:
+		println( 3.3 == 1.1+ 1.1 + 1.1 );
+Svaret = false
+	- Kan du forklare resultatet ?
+ resultatet kommer af at regne stykket ikke passer ind i det binære system
+
+3) Java: Upload dit 'Tjek' program til dit GitHub repository.
+	- Hvad mener du er årsagen til at 
+		println( 0.3 == 0.1 + 0.1 + 0.1 );
+          giver svaret false ?
+    jeg fik svaret true i processing
+
+4) Angiv seks 'CMD prompt' kommandoer du synes er vigtige,
+   med en beskrivelse af hvad de gør.
+    
+   1: CD (Change Directory) | skifter hvilken mappe du kigger i | jeg synes at den er vigtig da den lader dig navigere via command prompt
+   2: CP | lader dig kopiere en fil til en ny mappe | den er vigtig da den lader dig kopiere en fil til en ny mappe uden at skulle trække filen fra den ene mappe til den anden
+   3: mkdir | lader dig lave en ny mappe | den gør de bare lidt lettere at oprette en mappe
+   4: rm | sletter en fil | dette er vigtigt hvis du har en fil du gerne vil slette men ikke har lyst til at risikere at åbne/køre den ved et uheld
+   5: kill PID | stopper en specifik process | dette er en god måde at stoppe et program der ikke svarer
+   6: ps -ax | lader dig se alle processer der kører | dette er en vigtig kommando da den også viser processernes PID
+
+
+5) I noten 'Hukommelse og glemsel' kan du se en graf.
+   Antag du har modtaget ny viden. Hvad kan 'du' forvente at kunne huske efter 2 dage er passeret ?
+   
+   Jeg kan forvente at huske 25% af den nye information
+
+6) I noten 'Derfor dumper computere til matematik' omtales en episode under Golf krigen.
+   Hvor mange amerikanske soldater mistede livet under angrebet ?
+    28 soldater mistede livet
+
+   Ingeniøren valgte tallet 0.1 som sekund-tik. 
+   Kan du angive et tal ingeniøren istedet skulle have valgt ? 
+   0.0625 sekunder da det kan anvises korrekt i det binære system
+
+// end
